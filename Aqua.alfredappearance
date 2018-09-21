@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#EFEFF9FF",
+        "font" : "System",
+        "color" : "#7C7B7FFF"
+      },
+      "shortcut" : {
+        "size" : 24,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#A3A3A3FF"
+      },
+      "backgroundSelected" : "#5497F6FF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#5C8CE0FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 4,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#E9E9E9FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#3F3E3FFF"
+      },
+      "backgroundSelected" : "#B5D5FFFF"
+    },
+    "window" : {
+      "color" : "#E9E9E9FF",
+      "paddingHorizontal" : 10,
+      "width" : 640,
+      "borderPadding" : 10,
+      "borderColor" : "#E1404900",
+      "blur" : 0,
+      "roundness" : 10,
+      "paddingVertical" : 10
+    },
+    "credit" : "Giancarlo Nicolof",
+    "separator" : {
+      "color" : "#E9E9E9FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#A3A3A3FF",
+      "thickness" : 2
+    },
+    "name" : "Aqua"
+  }
+}

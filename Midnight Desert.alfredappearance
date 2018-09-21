@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#7A97DCFF",
+        "font" : "System",
+        "color" : "#5870A6FF"
+      },
+      "shortcut" : {
+        "size" : 24,
+        "colorSelected" : "#7996D7FF",
+        "font" : "System",
+        "color" : "#3B5386FF"
+      },
+      "backgroundSelected" : "#2D394FFF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#7996D7FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 4,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#222938FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#7095DCFF"
+      },
+      "backgroundSelected" : "#B5D5FFFF"
+    },
+    "window" : {
+      "color" : "#202939FF",
+      "paddingHorizontal" : 10,
+      "width" : 640,
+      "borderPadding" : 10,
+      "borderColor" : "#E1404900",
+      "blur" : 0,
+      "roundness" : 10,
+      "paddingVertical" : 10
+    },
+    "credit" : "Giancarlo Nicolof",
+    "separator" : {
+      "color" : "#222938FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#415483FF",
+      "thickness" : 2
+    },
+    "name" : "Midnight Desert"
+  }
+}
